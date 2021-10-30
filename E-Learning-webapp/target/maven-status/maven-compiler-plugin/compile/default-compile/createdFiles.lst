@@ -1,0 +1,9 @@
+controller\DeleteUserServlet.class
+controller\LoginServlet.class
+controller\FormationServlet.class
+controller\LogoutServlet.class
+controller\DetailsServlet.class
+controller\ProfileServlet.class
+controller\RegisterServlet.class
+controller\ChangeRoleServlet.class
+controller\ProfileServlet2.class

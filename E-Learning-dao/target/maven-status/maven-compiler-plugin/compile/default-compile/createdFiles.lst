@@ -1,0 +1,10 @@
+org\emsi\pfa\dao\AddFormationDao.class
+org\emsi\pfa\dao\CreateUserFormationDAO.class
+org\emsi\pfa\dao\UpdateProfileDAO.class
+org\emsi\pfa\dao\App.class
+org\emsi\pfa\dao\DBConnection.class
+org\emsi\pfa\dao\DeleteUserDao.class
+org\emsi\pfa\dao\RegisterDao.class
+org\emsi\pfa\dao\TablesViewDAO.class
+org\emsi\pfa\dao\UpdateRoleDAO.class
+org\emsi\pfa\dao\LoginDao.class

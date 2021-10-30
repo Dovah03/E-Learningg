@@ -1,0 +1,5 @@
+org\emsi\pfa\model\UserBean.class
+org\emsi\pfa\model\FormationBean.class
+org\emsi\pfa\model\LoginBean.class
+org\emsi\pfa\model\RegisterBean.class
+org\emsi\pfa\model\App.class
